@@ -27,7 +27,7 @@ a {
   background-image: url("https://nahtedetihw.github.io/airpodscompanionpreview/resources/images/APCSS1.png");
 
   /* Set a specific height */
-  min-height: 2796px; 
+  min-height: 1000px; 
 
   /* Create the parallax scrolling effect */
   /*background-attachment: fixed;*/
@@ -41,13 +41,12 @@ a {
   background-image: url("https://nahtedetihw.github.io/airpodscompanionpreview/resources/images/APCSS2.png");
 
   /* Set a specific height */
-  min-height: 2796px; 
+  min-height: 1000px; 
 
   /* Create the parallax scrolling effect */
-  background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
 }
 
 .parallax3 {
@@ -55,13 +54,12 @@ a {
   background-image: url("https://nahtedetihw.github.io/airpodscompanionpreview/resources/images/APCSS3.png");
 
   /* Set a specific height */
-  min-height: 2796px; 
+  min-height: 1000px; 
 
   /* Create the parallax scrolling effect */
-  background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
 }
 
 .parallax4 {
@@ -69,13 +67,12 @@ a {
   background-image: url("https://nahtedetihw.github.io/airpodscompanionpreview/resources/images/APCSS4.png");
 
   /* Set a specific height */
-  min-height: 2796px; 
+  min-height: 1000px; 
 
   /* Create the parallax scrolling effect */
-  background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
 }
 
 .parallax5 {
@@ -83,11 +80,10 @@ a {
   background-image: url("https://nahtedetihw.github.io/airpodscompanionpreview/resources/images/APCSS5.png");
 
   /* Set a specific height */
-  min-height: 2796px; 
+  min-height: 1000px; 
 
   /* Create the parallax scrolling effect */
-  background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
 }
