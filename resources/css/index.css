@@ -1,9 +1,11 @@
 * {
-  background-color:black;
-  color:white;
   font-family: Helvetica, Arial, sans-serif;
 }
 
+body {
+  background-color:black;
+  color:white;
+}
 
 h1 {
   color: SeaGreen;
