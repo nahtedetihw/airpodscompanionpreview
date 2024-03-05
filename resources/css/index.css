@@ -22,6 +22,22 @@ a {
   text-decoration: none;
 }
 
+.videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  padding-top: 20px;
+  overflow: hidden;
+}
+
+.videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
 div.scroll {
             margin: 4px, 4px;
             padding: 4px;
