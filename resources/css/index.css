@@ -26,11 +26,11 @@ a {
   position: absolute;
   top: 0;
   left: 0;
-  width: 1500px;
+  width: 2000px;
   height: 100%;
 }
 #container {
-  width: 1500px;
+  width: 2000px;
   position: absolute;
   top: 50%;
   margin-top: -150px;
