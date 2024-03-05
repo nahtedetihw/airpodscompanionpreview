@@ -53,25 +53,35 @@ a {
   background-color: #000;
   background: url(https://nahtedetihw.github.io/airpodscompanionpreview/resources/images/APCSS1.png);
   background-size:contain;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .ss2 {
   background-color: #000;
   background: url(https://nahtedetihw.github.io/airpodscompanionpreview/resources/images/APCSS2.png);
   background-size:contain;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 .ss3 {
   background-color: #000;
   background: url(https://nahtedetihw.github.io/airpodscompanionpreview/resources/images/APCSS3.png);
   background-size:contain;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 .ss4 {
   background-color: #000;
   background: url(https://nahtedetihw.github.io/airpodscompanionpreview/resources/images/APCSS4.png);
   background-size:contain;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 .ss5 {
   background-color: #000;
   background: url(https://nahtedetihw.github.io/airpodscompanionpreview/resources/images/APCSS5.png);
   background-size:contain;
+  background-position: center;
+  background-repeat: no-repeat;
 }
