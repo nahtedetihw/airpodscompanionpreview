@@ -25,7 +25,8 @@ a {
 .videoWrapper {
   position: relative;
   padding-bottom: 56.25%;
-  height: 0;
+  height: 56.25vw;
+  width:100vw;
   padding-top: 20px;
   overflow: hidden;
   display: block;
