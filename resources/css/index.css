@@ -22,68 +22,34 @@ a {
   text-decoration: none;
 }
 
-.parallax1 {
-  /* The image used */
-  background-image: url("https://nahtedetihw.github.io/airpodscompanionpreview/resources/images/APCSS1.png");
-
-  /* Set a specific height */
-  min-height: 1000px; 
-
-  /* Create the parallax scrolling effect */
-  /*background-attachment: fixed;*/
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: contain;
+#filler {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 3900px;
+  height: 100%;
+}
+#container {
+  width: 3900px;
+  position: absolute;
+  top: 50%;
+  margin-top: -150px;
 }
 
-.parallax2 {
-  /* The image used */
-  background-image: url("https://nahtedetihw.github.io/airpodscompanionpreview/resources/images/APCSS2.png");
-
-  /* Set a specific height */
-  min-height: 1000px; 
-
-  /* Create the parallax scrolling effect */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: contain;
+.section {
+  display: block;
+  width: 300px;
+  height: 300px;
+  float: left;
+  margin-left: 20px;
+  opacity: 0.6;
+  border-radius: 6px;
+}
+.clear {
+  clear: both;
 }
 
-.parallax3 {
-  /* The image used */
-  background-image: url("https://nahtedetihw.github.io/airpodscompanionpreview/resources/images/APCSS3.png");
-
-  /* Set a specific height */
-  min-height: 1000px; 
-
-  /* Create the parallax scrolling effect */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: contain;
+.ss {
+  background-color: #000;
 }
 
-.parallax4 {
-  /* The image used */
-  background-image: url("https://nahtedetihw.github.io/airpodscompanionpreview/resources/images/APCSS4.png");
-
-  /* Set a specific height */
-  min-height: 1000px; 
-
-  /* Create the parallax scrolling effect */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-
-.parallax5 {
-  /* The image used */
-  background-image: url("https://nahtedetihw.github.io/airpodscompanionpreview/resources/images/APCSS5.png");
-
-  /* Set a specific height */
-  min-height: 1000px; 
-
-  /* Create the parallax scrolling effect */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: contain;
-}
