@@ -26,11 +26,11 @@ a {
   position: absolute;
   top: 0;
   left: 0;
-  width: 2000px;
+  width: 17200px;
   height: 100%;
 }
 #container {
-  width: 2000px;
+  width: 1720px;
   position: absolute;
   top: 50%;
   margin-top: -150px;
@@ -41,7 +41,7 @@ a {
   width: 300px;
   height: 800px;
   float: left;
-  margin-left: 20px;
+  margin-left: 40px;
   border-radius: 6px;
 }
 .clear {
