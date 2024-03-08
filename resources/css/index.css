@@ -56,6 +56,7 @@ header .logo
   background: #000;
   transition: 0.5s;
   z-index: 2;
+min-height: -webkit-fill-available;
 }
 .showcase.active
 {
@@ -83,6 +84,7 @@ header .logo
   background: #000;
   /*mix-blend-mode: overlay;*/
   opacity:0.4;
+min-height: -webkit-fill-available;
 }
 .text
 {
