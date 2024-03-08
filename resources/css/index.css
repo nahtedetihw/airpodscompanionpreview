@@ -190,3 +190,20 @@ div.scroll {
             overflow: auto;
             white-space: nowrap;
         }
+
+section, .safe-area {
+    padding-left:1em;
+    padding-right:1em;
+}
+
+@supports(padding:max(0px)) {
+	section {
+		/* old syntax iOS 11.0, 11.1 */
+		padding-left:  max(1em, constant(safe-area-inset-left));
+		padding-right: max(1em, constant(safe-area-inset-right));
+		
+		/* new syntax iOS 11.2+ */
+		padding-left:  max(1em, env(safe-area-inset-left));
+		padding-right: max(1em, env(safe-area-inset-right));
+	}
+}
