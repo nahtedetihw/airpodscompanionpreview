@@ -70,6 +70,7 @@ header .logo
   width: 100vw;
   height: 100vh;
   object-fit: cover;
+  object-position: 0% 50%;
   opacity: 1.0;
 }
 .overlay
